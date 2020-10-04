@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">Game Backlog</string>
+    <string name="action_delete_all">Delete All Games</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="games_fragment_label" translatable="false">Games Fragment</string>
+    <string name="add_game_fragment_label" translatable="false">Add Game Fragment</string>
+    <string name="add_game_title">Add Game</string>
+    <string name="title_empty_error">Title must not be empty</string>
+    <string name="name_hint">Name</string>
+    <string name="platform_hint">Platform</string>
+    <string name="release_date_hint">Release date</string>
+    <string name="date_format">dd MMM yyyy</string>
+</resources>

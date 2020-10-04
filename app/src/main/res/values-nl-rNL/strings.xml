@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_delete_all">Verwijder alle games</string>
+    <string name="add_game_title">Voeg game toe</string>
+    <string name="title_empty_error">Titel mag niet leeg zijn</string>
+    <string name="name_hint">Naam</string>
+    <string name="platform_hint">Platform</string>
+    <string name="release_date_hint">Releasedatum</string>
+</resources>
